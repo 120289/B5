@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guestbook>
+  <letter>
+    <to>Pascal</to>
+    <from>Jesicca</from>
+    <text>You smell good</text>
+  </letter>
+
+  <letter>
+    <to>Pascal</to>
+    <from>cornelius</from>
+    <text>i like the breakfast</text>
+  </letter>
+
+  <letter>
+    <to>Pascal</to>
+    <from>nero</from>
+    <text>the beds are really clean</text>
+  </letter>
+
+  <letter>
+    <to>Pascal</to>
+    <from>neil</from>
+    <text>i aint got no pillow</text>
+  </letter>
+
+  <letter>
+    <to>Pascal</to>
+    <from>jack</from>
+    <text>the service is a ten out of ten</text>
+  </letter>
+
+  <letter>
+    <to>Pascal</to>
+    <from>emilia</from>
+    <text>i really like the view</text>
+  </letter>
+</guestbook>

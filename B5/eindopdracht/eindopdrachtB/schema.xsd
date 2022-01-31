@@ -1,0 +1,27 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="people">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="section">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="title"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="person" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="name"/>
+              <xs:element type="xs:string" name="gender"/>
+              <xs:element type="xs:string" name="hair"/>
+              <xs:element type="xs:string" name="eye"/>
+              <xs:element type="xs:string" name="skin"/>
+              <xs:element type="xs:string" name="height"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

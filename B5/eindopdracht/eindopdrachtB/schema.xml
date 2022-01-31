@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="css/xml.css"?>
+<people>
+<section>
+  <title>personTable</title>
+</section>
+
+<person>
+  <name>Name</name>
+  <gender>gender</gender>
+  <hair>hair</hair>
+  <eye>eye</eye>
+  <skin>skin</skin>
+  <height>height</height>
+</person>
+
+<person>
+    <name>Pascal</name>
+    <gender>man</gender>
+    <hair>brown</hair>
+    <eye>brown</eye>
+    <skin>white</skin>
+    <height>180-190</height>
+</person>
+
+<person>
+    <name>Jasja</name>
+    <gender>man</gender>
+    <hair>brown</hair>
+    <eye>brown</eye>
+    <skin>white</skin>
+    <height>180-190</height>
+</person>
+
+<person>
+    <name>Gerson</name>
+    <gender>man</gender>
+    <hair>brown</hair>
+    <eye>brown</eye>
+    <skin>white</skin>
+    <height>180-190</height>
+</person>
+
+<person>
+    <name>Emil</name>
+    <gender>man</gender>
+    <hair>brown</hair>
+    <eye>brown</eye>
+    <skin>white</skin>
+    <height>180-190</height>
+</person>
+
+<person>
+    <name>Sidian</name>
+    <gender>man</gender>
+    <hair>brown</hair>
+    <eye>brown</eye>
+    <skin>brown</skin>
+    <height>180-190</height>
+</person>
+
+<person>
+    <name>kevin</name>
+    <gender>man</gender>
+    <hair>brown</hair>
+    <eye>brown</eye>
+    <skin>light brown</skin>
+    <height>170-180</height>
+</person>
+
+<person>
+    <name>Yord</name>
+    <gender>man</gender>
+    <hair>brown</hair>
+    <eye>brown</eye>
+    <skin>white</skin>
+    <height>180-190</height>
+</person>
+
+<person>
+    <name>Xander</name>
+    <gender>man</gender>
+    <hair>brown</hair>
+    <eye>brown</eye>
+    <skin>brown</skin>
+    <height>160-170</height>
+</person>
+</people>

@@ -1,0 +1,26 @@
+name , gender , hair , eye , skin , height {
+  position: relative;
+  top: 0px;
+  font-size: 25px;
+  display: inline-block;
+  width: 140px;
+  margin-right: 5px;
+  margin: 15px;
+}
+
+person{
+  position: relative;
+  left: 10%;
+  top: 100px;
+  width: 80%;
+  height: 50px;
+  text-align: left;
+  display: block;
+  box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5);
+}
+
+title{
+  position: relative;
+  font-size: 50px;
+  top: 40px;
+}
